@@ -29,3 +29,6 @@ Person 클래스와 Student 클래스와 Employee라는 두개의 파생 클래�
 :student클래스의 경우, 학번(idNumber)을 이용하여 재학 년수를 계산 가능
 :Employee클래스의 경우, 고용년도(hiredYear)를 이용하여 근무 년수를 계산 가능
 
+## 3. openCV
+MFC에서 사진에 도형 그리기
+
